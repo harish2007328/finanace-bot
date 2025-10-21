@@ -8,7 +8,7 @@ AI-powered chatbot for personal finance management built with Python, Flask, and
 
 ```bash
 # Clone repo
-git clone https://github.com/<your-username>/finbot.git
+git clone https://github.com/harish2007328/finanace-bot.git
 cd finbot
 
 # Install dependencies
